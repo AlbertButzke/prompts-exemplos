@@ -1,6 +1,10 @@
 # Felipe Alberto Butzke
 **Data Scientist Jr./Pl.**
 
+📞 Telephone: [Telephone here]
+
+📧 [E-mail here]
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-alberto-butzke-649986317/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AlbertButzke)
 
