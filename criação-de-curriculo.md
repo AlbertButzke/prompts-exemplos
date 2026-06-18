@@ -41,17 +41,17 @@ Data Scientist with strong analytical background (MSc Physics – Cosmology & Ba
 - Built predictive models (in progress) for pricing optimization and review rating classification using Scikit-Learn.
 
 ## Education
-- MSc in Physics | Universidade Estadual de Campinas (Unicamp) | 2023–2025  
+- MSc in Physics | Universidade Estadual de Campinas (Unicamp) [don't modify/translate this camp] | 2023–2025  
   Focus: Cosmology & Bayesian Inference
-- BSc in Physics | Universidade Estadual de Campinas (Unicamp) | 2018–2023
-- Associate Degree in Electronics | Instituto Federal de Santa Catarina (IFSC) | 2014–2017
+- BSc in Physics | Universidade Estadual de Campinas (Unicamp) [don't modify/translate this camp]  | 2018–2023
+- Associate Degree in Electronics | Instituto Federal de Santa Catarina (IFSC) [don't modify/translate this camp] | 2014–2017
 
 ## Certifications
 - Applied Data Science with Python | University of Michigan (Coursera) | 2026  
   Focus: ML, NLP, Network Analysis, Data Visualization.
 - Data Science Immersion II | Alura | 2026  
   Python, Pandas, Data Visualization.
-- Data Fundamentals: Excel, SQL & BI | DIO | [Completed Year]  
+- Data Fundamentals: Excel, SQL & BI | DIO | 2006
   Database modeling, SQL querying, BI tools.
 
 ## Experience Highlights
