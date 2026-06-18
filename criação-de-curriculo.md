@@ -20,10 +20,21 @@ Data Scientist with strong analytical background (MSc Physics – Cosmology & Ba
 - Languages: Portuguese (Native), English (Advanced), Spanish (Intermediate), German (Elementary).
 
 ## Key Skills
-- **Programming & Data Science**: Python (NumPy, Pandas, SciPy, Scikit-Learn, Matplotlib, Seaborn, Plotly, Streamlit), SQL, PowerBI.
+- **Programming & Data Science**:
+  - Python (proficiency):
+    + NumPy 5/5
+    + Pandas 5/5
+    + SciPy 5/5
+    + Scikit-Learn 4/5
+    + Matplotlib 5/5
+    + Seaborn 5/5
+    + Plotly 5/5
+    + Streamlit (4/5)
+    + SQL (4/5)
+    + PowerBI (3/5)
 - **Data Strategy**: ETL, EDA, bias diagnosis, metric definition, uncertainty quantification.
 - **Machine Learning**: Supervised & unsupervised models, model validation, precision/recall optimization.
-- **Tools & Version Control**: Git, GitHub, LaTeX.
+- **Tools & Version Control**: Git (4/5), GitHub (4/5), LaTeX (5/5).
 - **Soft Skills**: Clear communication, technical storytelling, teamwork.
 
 ## Projects
