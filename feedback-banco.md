@@ -6,6 +6,7 @@ A entrega deve conter:
 - resumo inicial, separado por reclamações de serviços e autoatendimento
 - exemplos: de problemas e citações de reclamações
 - uma tabela com as principais reclamações (maior frequência de reclamação)
+- outra tabela com todas as reclamações (entregue em sql)
 - recomendações práticas de melhorias
 
 O resultado será considerado bom se for claro, organizado e útil para priorizar ações.
