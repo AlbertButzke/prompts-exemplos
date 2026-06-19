@@ -1,12 +1,18 @@
-# Felipe Alberto Butzke
-**Data Scientist Jr./Pl.**
+<h1 align="center">Felipe Alberto Butzke</h1>
+<p align="center"><strong>Data Scientist Jr./Pl.</strong></p>
 
-📞 Telephone: [Telephone here]
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-alberto-butzke-649986317/" target="_blank">    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AlbertButzke" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
 
-📧 [E-mail here]
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/felipe-alberto-butzke-649986317/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/AlbertButzke)
+<p align="center">
+📞 Telephone: [Telephone here] 📧 [E-mail here]
+</p>
 
 
 ## Profile
@@ -68,3 +74,6 @@ Data Scientist with strong analytical background (MSc Physics – Cosmology & Ba
 ## Experience Highlights
 - **Programming Trajectory**: 6+ years of Python applied to physics research and data science projects. Expertise in Bayesian methods, MCMC, and large dataset analysis.
 - **Business Impact**: Delivered dashboards and ML models aligned with KPIs (Precision, Recall, ROC-AUC). Focused on transforming data into actionable insights for stakeholders.
+
+---
+# Experiences for questions or curriculum
