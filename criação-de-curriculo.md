@@ -45,7 +45,7 @@ Data Scientist with strong analytical background (MSc Physics – Cosmology & Ba
 
 ## Projects
 ### Airbnb Price & Rating Prediction Pipeline | Python, Scikit-Learn, XGBoost, Pandas, Streamlit
-[Notebook]([https://airbnb-felipe.streamlit.app/](https://github.com/AlbertButzke/Air-BnB))
+[Notebook](https://github.com/AlbertButzke/Air-BnB)
 - Built a localized and global data pipeline to clean, engineer features, and predict prices across 40,700+ Airbnb listings.
 - Implemented segmented regression modeling (XGBoost, Decision Trees, Lasso); achieved an $R^2$ of 0.5169 for Rio de Janeiro price predictions, significantly outperforming baseline models.
 - Uncovered distinct market dynamics by isolating predictions by property type (Entire Home, Private, and Shared rooms) and regional safety metrics.
