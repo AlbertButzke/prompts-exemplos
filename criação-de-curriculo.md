@@ -44,18 +44,19 @@ Data Scientist with strong analytical background (MSc Physics – Cosmology & Ba
 - **Soft Skills**: Clear communication, technical storytelling, teamwork.
 
 ## Projects
+### Airbnb Price & Rating Prediction Pipeline | Python, Scikit-Learn, XGBoost, Pandas, Streamlit
+[Notebook]([https://airbnb-felipe.streamlit.app/](https://github.com/AlbertButzke/Air-BnB))
+- Built a localized and global data pipeline to clean, engineer features, and predict prices across 40,700+ Airbnb listings.
+- Implemented segmented regression modeling (XGBoost, Decision Trees, Lasso); achieved an $R^2$ of 0.5169 for Rio de Janeiro price predictions, significantly outperforming baseline models.
+- Uncovered distinct market dynamics by isolating predictions by property type (Entire Home, Private, and Shared rooms) and regional safety metrics.
+- Expanding project scope to benchmark multiclass classification against regression models for user rating predictions.
+
 ### Team Liquid Tournament Dashboard | Python, BeautifulSoup, Pandas, Plotly, Streamlit
 [Demo](https://team-liquid-earnings.streamlit.app/)
 - Built web scraping pipeline for esports tournament data.
 - Designed interactive dashboard with KPIs (earnings, placements, podium counts).
 - Implemented comparative charts for performance analysis across games.
 
-### Airbnb Market & Risk Analytics Dashboard | Python, Pandas, Scikit-Learn, Plotly, Streamlit
-[Demo](https://airbnb-felipe.streamlit.app/)
-- Analyzed 43,000+ active listings to uncover pricing strategies and market trends.
-- Developed KPIs: average price (R$717.54), inventory size (43,068 listings), and review maturity (26 reviews on average).
-- Implemented localized risk-assessment logic based on neighborhood safety metrics to support investment decisions.
-- Built predictive models (in progress) for pricing optimization and review rating classification using Scikit-Learn.
 
 ## Education
 - MSc in Physics | Universidade Estadual de Campinas (Unicamp) [don't modify/translate this camp] | 2023–2025  
